@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png](https://github.com/Sajidhunxai/Sajidhunxai/blob/main/banner.png)" alt="Sajid profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
+  <img src="https://github.com/Sajidhunxai/Sajidhunxai/blob/main/banner.png" alt="Sajid profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 </p>
 # Hi there, I'm Sajidhunxai 👋
 
