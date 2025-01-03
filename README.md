@@ -1,6 +1,5 @@
-<p align="center">
   <img src="https://github.com/Sajidhunxai/Sajidhunxai/blob/main/banner.png" alt="Sajid profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
-</p>
+
 # Hi there, I'm Sajidhunxai 👋
 
 ## 🚀 About Me
@@ -9,11 +8,10 @@ I am a dedicated software developer with experience in multiple programming lang
 
 ### Connect with Me:
 ---
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01aaf428bf8e9a3128)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/users/rashid_khan_11)
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wolftheThunder)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashid.khan.maitla13@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923492777660)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010c36f2bcb52ef91f)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/sajid_wali)
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Sajidhunxai)
+
 ### Places am mostly active:
 <p align="center" style="margin-left: 20px; margin-right: 20px;">
   <a href="https://www.linkedin.com/in/abdul-rashid-khan-maitla11" target="blank" style="margin: 0 15px;">
