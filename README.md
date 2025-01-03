@@ -12,22 +12,6 @@ I am a dedicated software developer with experience in multiple programming lang
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/sajid_wali)
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Sajidhunxai)
 
-### Places am mostly active:
-<p align="center" style="margin-left: 20px; margin-right: 20px;">
-  <a href="https://www.linkedin.com/in/abdul-rashid-khan-maitla11" target="blank" style="margin: 0 15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/_rashidkhan11" target="blank" style="margin: 0 15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rashid_khan_mai2" target="blank" style="margin: 0 15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/wolfthethunder" target="blank" style="margin: 0 15px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-</p>
-
 
 ## 🛠️ Languages and Tools
 
