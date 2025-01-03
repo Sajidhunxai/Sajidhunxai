@@ -42,9 +42,9 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Personal Website"></a>
+  <a href="https://www.linkedin.com/in/sajid-wali-60a987201/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/sajidhunxai"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.fanphobia.net"><img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Personal Website"></a>
 </p>
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
