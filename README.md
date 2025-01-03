@@ -1,5 +1,6 @@
-![Banner](https://www.canva.com/design/DAGbL_VWQxo/5f30qfSDy5oUpv0AQUgAPw/view?utm_content=DAGbL_VWQxo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h981a3252bf)
-
+<p align="center">
+  <img src="[https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png](https://github.com/Sajidhunxai/Sajidhunxai/blob/main/banner.png)" alt="Sajid profile banner" width="100%" height="auto" style="border-radius: 50%; border: 5px solid #4CAF50;" />
+</p>
 # Hi there, I'm Sajidhunxai 👋
 
 ## 🚀 About Me
