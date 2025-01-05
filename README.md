@@ -35,7 +35,6 @@ Here are some of the technologies and tools I work with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajidhunxai&show_icons=true&theme=radical" alt="Sajidhunxai's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajidhunxai&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
